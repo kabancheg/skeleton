@@ -1,2 +1,14 @@
-//$white: #f0f0f0;
-//$black: #444;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 960px,
+  lg: 1280px,
+  xl: 1600px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 936px,
+  lg: 1248px,
+  xl: 1560px
+);
